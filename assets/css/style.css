@@ -55,6 +55,12 @@ h4 {
   display: table;
 }
 
+.section-column {
+  display: table-cell;
+  padding: 0 30px 30px;
+  float: none;
+}
+
 /*-------------------- Heading */
 
 header {
