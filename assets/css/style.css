@@ -342,3 +342,10 @@ footer {
 .history-items {
   margin-bottom: 30px;
 }
+
+/*-------------------- Contact-form */
+
+.contact-heading {
+  font-family: "Exo", sans-serif;
+}
+
